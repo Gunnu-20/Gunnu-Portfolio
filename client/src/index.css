@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Inter:wght@300;400;500;600&display=swap');
+
+* { scroll-behavior: smooth; }
+
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: #0a0a0f; }
+::-webkit-scrollbar-thumb { background: #7c3aed40; border-radius: 9999px; }
+::-webkit-scrollbar-thumb:hover { background: #7c3aed80; }
+
+::selection { background: rgba(139,92,246,0.3); color: white; }
+
+body {
+  background: #0a0a0f;
+  color: white;
+  -webkit-font-smoothing: antialiased;
+  font-family: 'Inter', sans-serif;
+}
