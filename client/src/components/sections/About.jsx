@@ -1,5 +1,6 @@
 import { personalInfo } from "../../data/portfolioData";
 import { useReveal } from "../../hooks/useAnimations";
+import gunImage from "../assets/gun1.jpeg";
 
 const stats = [
   { value: "5+", label: "Projects Built" },
@@ -30,7 +31,7 @@ export default function About() {
               <div className="relative aspect-[4/5] rounded-2xl overflow-hidden border border-white/5 bg-[#111118]">
 
                   <img
-                    src="/gun1.jpeg"
+                    src={gunImage}
                     alt="Gungun Rathore"
                     className="w-full h-full object-cover object-top"
                   />
