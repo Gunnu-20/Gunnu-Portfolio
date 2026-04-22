@@ -30,7 +30,7 @@ export default function About() {
               <div className="relative aspect-[4/5] rounded-2xl overflow-hidden border border-white/5 bg-[#111118]">
 
                   <img
-                    src="/public/gun1.jpeg"
+                    src="/gun1.jpeg"
                     alt="Gungun Rathore"
                     className="w-full h-full object-cover object-top"
                   />
