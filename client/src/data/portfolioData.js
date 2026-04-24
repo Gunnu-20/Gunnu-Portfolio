@@ -46,7 +46,7 @@ export const projects = [
     title: "Spendly - Expense Tracker",
     description:
       "A full-stack, MERN expense tracker app with JWTauth, real-time dashboard, budget alerts, and CSV exports.",
-    tech: ["React", "Node.js", "MongoDB", "Express.js", "Recharts.js"],
+    tech: ["React","Tailwind CSS",  "Node.js", "MongoDB", "Express.js", "Recharts.js"],
     github: "https://github.com/Gunnu-20/Expense-Tracker",
     live: "https://expense-tracker-client-zf2q.onrender.com/login",
     color: "from-cyan-600/20 to-teal-900/20",
@@ -57,7 +57,7 @@ export const projects = [
     title: "CodeWorld - 3D Learning Simulator",
     description:
       "A 3D learning simulator with WASD movement, real-rooms, and a custonm character-features per-language quizzes and progress tracking.",
-    tech: ["React", "Three.js", "Node.js", "MongoDB", "Express.js"],
+    tech: ["React", "Three.js","Tailwind CSS", "Node.js", "MongoDB", "Express.js"],
     github: "https://github.com/Gunnu-20/3D-code-world-simulator",
     live: "https://threed-code-world-simulator-frontend.onrender.com",
     color: "from-rose-600/20 to-pink-900/20",
@@ -68,7 +68,7 @@ export const projects = [
     title: "Notes - Notes App ",
     description:
       "A full-stack notes app with JWTauth, theme-toggle, and note history tracking. Built with MERN stack and sytyled with Tailwind CSS.",
-    tech: ["React", "Node.js", "Express.js", "MongoDB", "JWT"],
+    tech: ["React","Tailwind CSS",  "Node.js", "Express.js", "MongoDB", "JWT"],
     github: "https://github.com/Gunnu-20/NotesApp",
     live: "https://notesapp-frontend-emnk.onrender.com",
     color: "from-amber-600/20 to-orange-900/20",
