@@ -58,8 +58,8 @@ export const projects = [
     description:
       "A 3D learning simulator with WASD movement, real-rooms, and a custonm character-features per-language quizzes and progress tracking.",
     tech: ["React", "Three.js", "Node.js", "MongoDB", "Express.js"],
-    github: "https://github.com/Gunnu-20/3D-code-wprld-simulator",
-    live: "https://threed-code-wprld-simulator-frontend.onrender.com",
+    github: "https://github.com/Gunnu-20/3D-code-world-simulator",
+    live: "https://threed-code-world-simulator-frontend.onrender.com",
     color: "from-rose-600/20 to-pink-900/20",
     accent: "#f43f5e",
   },
