@@ -54,7 +54,7 @@ export const projects = [
   },
   {
     id: 3,
-    title: "CodeWprld - 3D Learning Simulator",
+    title: "CodeWorld - 3D Learning Simulator",
     description:
       "A 3D learning simulator with WASD movement, real-rooms, and a custonm character-features per-language quizzes and progress tracking.",
     tech: ["React", "Three.js", "Node.js", "MongoDB", "Express.js"],
